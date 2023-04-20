@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(107,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(109,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(111,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(113,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(140,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(144,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(148,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(151,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+  OpenGL-basico.vcxproj -> C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\Debug\OpenGL-basico.exe

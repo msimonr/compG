@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(107,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(109,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(111,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(113,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(140,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(144,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(148,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\main.cpp(151,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Generando código
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  OpenGL-basico.vcxproj -> C:\Users\mauri\Desktop\Comp. Gráfica\practico1\OpenGL-basico2\Release\OpenGL-basico.exe
