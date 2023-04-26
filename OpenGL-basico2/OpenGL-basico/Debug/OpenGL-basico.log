@@ -1,17 +1,7 @@
 ﻿  main.cpp
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(104,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(105,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(106,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(107,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(111,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(112,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(113,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(114,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(118,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(119,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(120,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(121,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(146,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(194,19): warning C4305: '+=': truncamiento de 'double' a 'float'
-C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\main.cpp(200,19): warning C4305: '-=': truncamiento de 'double' a 'float'
-  OpenGL-basico.vcxproj -> C:\Users\mauri\Desktop\Comp. Gráfica\practico2\OpenGL-basico2\Debug\OpenGL-basico.exe
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(32,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(59,8): warning C4101: 'b': variable local sin referencia
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(56,6): warning C4101: 'idDp': variable local sin referencia
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(58,8): warning C4101: 'g': variable local sin referencia
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(57,8): warning C4101: 'r': variable local sin referencia
+  OpenGL-basico.vcxproj -> C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\Debug\OpenGL-basico.exe
