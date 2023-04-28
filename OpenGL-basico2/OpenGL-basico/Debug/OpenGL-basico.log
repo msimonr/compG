@@ -1,7 +1,32 @@
 ﻿  main.cpp
-C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(32,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(59,8): warning C4101: 'b': variable local sin referencia
-C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(56,6): warning C4101: 'idDp': variable local sin referencia
-C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(58,8): warning C4101: 'g': variable local sin referencia
-C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(57,8): warning C4101: 'r': variable local sin referencia
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(189,23): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(195,18): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(197,20): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(208,28): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(209,23): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(210,28): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(211,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(211,17): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(212,21): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(213,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(213,19): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(214,21): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(215,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(234,23): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(237,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(240,45): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(243,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(250,23): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(252,21): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(256,23): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(258,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(258,17): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(260,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(260,19): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(262,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(272,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(338,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(339,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(340,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\main.cpp(341,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
   OpenGL-basico.vcxproj -> C:\Users\mauri\Desktop\Comp. Gráfica\OpenGL-basico2\Debug\OpenGL-basico.exe
